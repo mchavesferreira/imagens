@@ -23,6 +23,11 @@ Tutoria Miracatu
 
 https://www.youtube.com/watch?v=amLMU-IrjGo
 
+# resolução matemática  algumas aulas de resolução liberadas *
+
+https://www.youtube.com/@VestibulinhoNota10/search?query=ifsp%202024
+
+
 # portugues prova 2024 resolução
 Tutoria Miracatu
 
