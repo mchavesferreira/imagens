@@ -18,6 +18,16 @@ https://www.youtube.com/watch?v=71KGjy3a8XE
 
 https://www.youtube.com/watch?v=mNSyqz1UgYU&list=PL50OJ24uVv-Kpv_Moo1JaWNtFDnUF8SUw
 
+# matemática  resolução prova 2024 
+Tutoria Miracatu
+
+https://www.youtube.com/watch?v=amLMU-IrjGo
+
+# portugues prova 2024 resolução
+Tutoria Miracatu
+
+https://www.youtube.com/watch?v=P7FN8P2Yxvk
+
 
 # portugues conceitos 
 
