@@ -30,16 +30,16 @@ Utilizar ativação **ABP**.
 
 ```text
 DevEUI:
-3333ACE658799B4E
+xxx
 
 DevAddr:
-7033E132
+xx
 
 NwkSKey:
-33338CC087775C9E83BA7C5E9A889699
+xxx
 
 AppSKey:
-33287ADF52F1143E8482AAD7CC8DFAA4
+xxx
 ```
 
 Configurar a região LoRaWAN utilizada pela rede do ChirpStack.
@@ -255,24 +255,17 @@ Após confirmar que o **ChirpStack está recebendo e decodificando corretamente 
 // --------------------------------------------------
 
 uint8_t devEui[] = {
-    0x33, 0x33, 0xAC, 0xE6,
-    0x58, 0x79, 0x9B, 0x4E
+ 
 };
 
 uint32_t devAddr = 0x7033E132;
 
 uint8_t nwkSKey[] = {
-    0x33, 0x33, 0x8C, 0xC0,
-    0x87, 0x77, 0x5C, 0x9E,
-    0x83, 0xBA, 0x7C, 0x5E,
-    0x9A, 0x88, 0x96, 0x99
+ 
 };
 
 uint8_t appSKey[] = {
-    0x33, 0x28, 0x7A, 0xDF,
-    0x52, 0xF1, 0x14, 0x3E,
-    0x84, 0x82, 0xAA, 0xD7,
-    0xCC, 0x8D, 0xFA, 0xA4
+
 };
 
 
